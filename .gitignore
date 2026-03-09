@@ -1,0 +1,48 @@
+# This is a Unity .gitignore file
+
+# This is a simple Unity .gitignore that excludes files that should
+# not be tracked by version control
+
+# User-specific files
+*.sublime-*  
+*.userprefs  
+*.csproj  
+*.unityproj  
+*.pidb  
+*.sln  
+*.user  
+*.userprefs  
+
+# Build results
+[Ll]ibrary/  
+[Tt]emp/  
+[Oo]bj/  
+[Bb]in/  
+[Aa]ssets/AssetStoreTools*  
+
+# Visual Studio files
+*.sln  
+*.csproj  
+*.unityproj  
+*.pidb  
+*.layer  
+*.userprefs  
+
+# Builds
+*.app
+*.apk
+*.unitypackage
+*.xcodeproj
+*.xcworkspace
+
+# JetBrains Rider files
+.idea/
+*.sln.iml
+*.csproj.user
+
+# User-specific files
+*.sublime-*  
+*.userprefs  
+
+# Mac files
+.DS_Store
